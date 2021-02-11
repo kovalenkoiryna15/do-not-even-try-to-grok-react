@@ -4,7 +4,7 @@
 
 ## Hooks
 
-- [Making Sense of React Hooks](https://medium.com/@dan_abramov/making-sense-of-react-hooks-fdbde8803889)
+- [Making Sense of React Hooks by Dan Abramov](https://medium.com/@dan_abramov/making-sense-of-react-hooks-fdbde8803889)
 
 ### useEffect
 
