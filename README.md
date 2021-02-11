@@ -1,6 +1,7 @@
 # Start from here
 
-## [VirtualDOM](./virtualDOM/virtualDOM.md)
+## VirtualDOM
+- [Explain the Virtual DOM](./virtualDOM/virtualDOM.md)
 
 ## Hooks
 
