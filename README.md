@@ -20,3 +20,7 @@ rules: {
 - [How to useEffect in React by Robin Wieruch](https://www.robinwieruch.de/react-useeffect-hook)
 - [Myths about useEffect by Kent C. Dodds](https://epicreact.dev/myths-about-useeffect/)
 - [useEffect(fn, []) is not the new componentDidMount() by Brad Westfall](https://reacttraining.com/blog/useEffect-is-not-the-new-componentDidMount/) ...OMG read [in russian](https://stasonmars.ru/javascript/useeffect-eto-ne-novyi-componentdidmount/)
+
+## Context
+
+- [React Context by Robin Wieruch](https://www.robinwieruch.de/react-context)
