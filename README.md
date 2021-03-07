@@ -33,3 +33,8 @@ rules: {
 ## Context
 
 - [ ] [React Context by Robin Wieruch](https://www.robinwieruch.de/react-context)
+
+## React.memo API
+
+- [ ] [How to use React memo by Robin Wieruch](https://www.robinwieruch.de/react-memo)
+
