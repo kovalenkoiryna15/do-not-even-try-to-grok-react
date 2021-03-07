@@ -3,6 +3,7 @@
 # Start from here
 
 ## VirtualDOM
+
 - [x] [Explain the Virtual DOM](./virtualDOM/virtualDOM.md)
 - [ ] [Reconciliation (Согласование)](https://ru.reactjs.org/docs/reconciliation.html)
 
@@ -10,6 +11,7 @@
 
 - [x] [Making Sense of React Hooks by Dan Abramov](https://medium.com/@dan_abramov/making-sense-of-react-hooks-fdbde8803889)
 - [ ] [React Hooks Tutorial by Robin Wieruch](https://www.robinwieruch.de/react-hooks)
+- [ ] [Comparison: HOCs vs Render Props vs Hooks by Luke Hall](https://medium.com/simply/comparison-hocs-vs-render-props-vs-hooks-55f9ffcd5dc6) 🔥
 
 ### useEffect
 
