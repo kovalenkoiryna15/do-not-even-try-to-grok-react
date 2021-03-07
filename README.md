@@ -4,6 +4,7 @@
 
 ## VirtualDOM
 - [x] [Explain the Virtual DOM](./virtualDOM/virtualDOM.md)
+- [ ] [Reconciliation (Согласование)](https://ru.reactjs.org/docs/reconciliation.html)
 
 ## Hooks
 
