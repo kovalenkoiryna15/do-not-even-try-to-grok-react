@@ -1,9 +1,4 @@
-*P.S. stop collecting* 😜
-```
-rules: {
-  "max-links-number": "4"
-}
-```
+😜
 
 # Start from here
 
