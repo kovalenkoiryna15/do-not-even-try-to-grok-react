@@ -13,6 +13,7 @@ rules: {
 ## Hooks
 
 - [x] [Making Sense of React Hooks by Dan Abramov](https://medium.com/@dan_abramov/making-sense-of-react-hooks-fdbde8803889)
+- [ ] [React Hooks Tutorial by Robin Wieruch](https://www.robinwieruch.de/react-hooks)
 
 ### useEffect
 
@@ -20,6 +21,14 @@ rules: {
 - [x] [How to useEffect in React by Robin Wieruch](https://www.robinwieruch.de/react-useeffect-hook)
 - [x] [Myths about useEffect by Kent C. Dodds](https://epicreact.dev/myths-about-useeffect/)
 - [x] [useEffect(fn, []) is not the new componentDidMount() by Brad Westfall](https://reacttraining.com/blog/useEffect-is-not-the-new-componentDidMount/) ...OMG read [in russian](https://stasonmars.ru/javascript/useeffect-eto-ne-novyi-componentdidmount/)
+
+### useCallback
+
+- [ ] [How to useCallback in React by Robin Wieruch](https://www.robinwieruch.de/react-usecallback-hook)
+
+### useMemo
+
+- [ ] [How to useMemo in React by Robin Wieruch](https://www.robinwieruch.de/react-usememo-hook)
 
 ## Context
 
