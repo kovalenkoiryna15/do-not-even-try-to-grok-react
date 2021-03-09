@@ -1,4 +1,8 @@
-# Start from here 🦊 🐾
+# Start from here 🦊 🐾 
+
+## Vanilla JS 
+
+- [ ] [**Concurrency in JavaScript**](https://medium.com/@onejohi/concurrency-in-javascript-f5bb387708d8)
 
 ## React ⚛
 
