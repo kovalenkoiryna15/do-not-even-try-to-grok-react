@@ -22,6 +22,10 @@
 - [x] [**Myths about useEffect** by Kent C. Dodds](https://epicreact.dev/myths-about-useeffect/)
 - [x] [**useEffect(fn, []) is not the new componentDidMount()** by Brad Westfall](https://reacttraining.com/blog/useEffect-is-not-the-new-componentDidMount/) ...OMG read [in russian](https://stasonmars.ru/javascript/useeffect-eto-ne-novyi-componentdidmount/)
 
+### useLayoutEffect
+
+- [ ] [**When to useLayoutEffect Instead of useEffect (example)** by Dave Ceddia](https://daveceddia.com/useeffect-vs-uselayouteffect/)
+
 ### useCallback
 
 - [x] [**How to useCallback in React** by Robin Wieruch](https://www.robinwieruch.de/react-usecallback-hook)
