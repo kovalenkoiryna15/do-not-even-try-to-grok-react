@@ -3,6 +3,9 @@
 ## Browser
 
 - [ ] [**Reflow, Repaint, Composite**](https://rashidovr.medium.com/reflow-repaint-composite-%D1%87%D1%82%D0%BE-%D1%8D%D1%82%D0%BE-%D0%B8-%D0%BA%D0%B0%D0%BA-%D1%8D%D1%82%D0%BE-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%D0%B5%D1%82-a777c5760295)
+- [ ] [**Rendering performance**](https://developers.google.com/web/fundamentals/performance/rendering?hl=ru)
+- [ ] [**CRP (Critical Rendering Path)**](https://habr.com/ru/post/320430/)
+- [ ] [**Web/Performance**](https://developer.mozilla.org/ru/docs/Web/Performance)
 
 ## Vanilla JS 
 
