@@ -14,6 +14,7 @@
 ## React ⚛
 
 - [x] [**How React works under the hood**](https://www.freecodecamp.org/news/react-under-the-hood/)
+- [ ] [**Component Dot Notation**](https://skovy.dev/using-component-dot-notation-with-typescript-to-create-a-set-of-components/)
 
 ## VirtualDOM
 
