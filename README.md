@@ -1,5 +1,7 @@
 # Start from here 🦊 🐾 
 
+- [x] [Jenn Creighton - The How and Why of Flexible React Components](https://youtu.be/vot0nJJ2Qdo)
+
 ## Docker
 
 - [x] [Docker + ReactJS tutorial](https://youtu.be/3xDAU5cvi5E)
